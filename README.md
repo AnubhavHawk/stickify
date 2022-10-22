@@ -28,7 +28,7 @@ Make sure you have node.js installed in your machine on your machine.
 npm i
 ```
 
-### Start all projects
+### Start the project
 
 
 ```
