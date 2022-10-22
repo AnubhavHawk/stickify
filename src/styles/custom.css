@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Caveat:wght@500&family=Heebo:wght@200&family=Lato:ital,wght@1,100&family=Noto+Sans&display=swap');
+
+body {
+  font-family: 'Caveat', cursive !important;
+}
+.sticker-product {
+  border: 5px solid #1e1e1e;
+}
+.sticker-product:hover {
+  box-shadow: 0 0 10px 5px #e1e1e1;
+  transition: all 0.1s ease-out;
+}
